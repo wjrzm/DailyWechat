@@ -1,0 +1,14 @@
+{{time.DATA}}
+
+坐标城市：{{city.DATA}}
+当前天气：{{weather.DATA}}
+当前风向：{{wind.DATA}}
+今日温度：{{tem_low.DATA}}℃~{{tem_high.DATA}}℃ 
+空气质量：{{air.DATA}}
+紫外线强度：{{uv.DATA}}级
+
+今天是我们恋爱第{{born_days.DATA}}天
+距离宝贝生日还有{{birthday_left.DATA}}天
+距离五一出游还有{{setday_left.DATA}}天
+
+{{words.DATA}}
